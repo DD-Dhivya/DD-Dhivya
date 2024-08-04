@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :seedling: Currently, I am working on buildling Machine Learning Portfolio.
+- :seedling: Currently, I am working on building Machine Learning Portfolio.
 
 ---
 

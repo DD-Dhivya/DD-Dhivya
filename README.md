@@ -42,6 +42,6 @@ Explore my projects to see how I turn raw data into actionable insights!
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" title="excel" alt="excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DD-Dhivya/Data_Analytics_Portfolio/blob/main/icons8-excel.svg" title="excel" alt="excel" width="40" height="40"/>&nbsp;
   
 ---

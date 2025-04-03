@@ -18,12 +18,20 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I’m a consultant with a strong interest in data analysis, leveraging tools like Excel, SQL, and Power BI to derive insights and drive decision-making. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :seedling: Currently, I am working on building Machine Learning Portfolio.
 
 ---
+### :hammer_and_wrench: Portfolio :
+This repository showcases my projects, highlighting my skills in:
+📊 Excel – Data cleaning, analysis, and visualization
+📂 SQL – Querying, data transformation, and optimization
+📈 Power BI – Interactive dashboards and business intelligence reports
 
+Explore my projects to see how I turn raw data into actionable insights! 
+
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

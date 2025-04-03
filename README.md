@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src = "https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/" width="300"/>
+<img src = "https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ" width="300"/>
 <div id="badges">
   <a href="www.linkedin.com/in/dhivyadominic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

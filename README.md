@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src = "https://dribbble.com/shots/5791691-Data-Analysis?utm_source=Clipboard_Shot&utm_campaign=muminulhasan&utm_content=Data%20Analysis&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=muminulhasan&utm_content=Data%20Analysis&utm_medium=Social_Share" width="300"/>
+<img src = "https://github.com/DD-Dhivya/Data_Analytics_Portfolio/blob/main/74pZ.gif" width="300"/>
 <div id="badges">
   <a href="www.linkedin.com/in/dhivyadominic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

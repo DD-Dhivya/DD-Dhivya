@@ -23,10 +23,10 @@ I’m a consultant with a strong interest in data analysis, leveraging tools lik
 
 ---
 ### :hammer_and_wrench: Portfolio :
-This repository showcases my projects, highlighting my skills in:
-📊 Excel – Data cleaning, analysis, and visualization
-📂 SQL – Querying, data transformation, and optimization
-📈 Power BI – Interactive dashboards and business intelligence reports
+This repository showcases my projects, highlighting my skills in: <br>
+📊 Excel – Data cleaning, analysis, and visualization<br>
+📂 SQL – Querying, data transformation, and optimization<br>
+📈 Power BI – Interactive dashboards and business intelligence reports<br>
 
 Explore my projects to see how I turn raw data into actionable insights! 
 
